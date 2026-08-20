@@ -1,4 +1,14 @@
-<div align="left" style="background-color: #141414; padding: 20px; border-radius: 10px;">
+<style>
+  body {
+    background-color: #141414 !important;
+    color: #f0f0f0 !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    padding: 20px;
+  }
+  a {
+    color: #58a6ff !important;
+  }
+</style>
 
 ## Introduction 
 Hi there! I'm a passionate Minecraft fan diving headfirst into the world of modding. I'm learning how to code step-by-step, turning fresh ideas into playable mechanics. 
@@ -22,4 +32,3 @@ You can also check my repositories if you want to inspect the source code for al
 
 --- 
 **See you soon with more projects! <3**
-</div>
